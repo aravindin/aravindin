@@ -1,0 +1,1 @@
+ssh -i "DockerHost.pem" ubuntu@ec2-54-81-221-179.compute-1.amazonaws.com
